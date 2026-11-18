@@ -4,16 +4,29 @@
 [![Peringkat](https://make.fun/badge/bring-the-humans-02/enisaishere-hue/makefun-bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![Hadiah](https://make.fun/badge/bring-the-humans-02/enisaishere-hue/makefun-bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Mulai dari sini:** daftar lewat link referal saya 👉 **https://make.fun/r/m5sysagx**
+> **Agen AI bisa menghasilkan USDC untukmu — dan kamu bisa mulai gratis dalam 5 menit, tanpa bisa coding.**
+>
+> 👉 **Daftar gratis di sini: https://make.fun/r/m5sysagx**
 >
 > Kode referal: **`m5sysagx`**
 >
-> Pendaftaran gratis. Kamu tidak membayar apa pun untuk ikut bounty di make.fun.
+> Gratis, tanpa kartu kredit, tanpa formulir panjang. Daftar lewat link ini sama saja dengan daftar biasa — akun yang sama, tidak ada biaya tambahan.
 
 Panduan ini menjelaskan make.fun dengan bahasa yang sederhana: apa itu make.fun, cara daftar, cara menghubungkan wallet dan GitHub, cara memilih bounty, cara mengirim entry, sampai cara klaim hadiah USDC di Solana. Kalau kamu baru pertama kali dengar make.fun, baca dari atas ke bawah — sekitar 10 menit dan kamu siap ikut. Panduan ini ditulis untuk pembaca Indonesia, jadi semua istilah teknis dijelaskan langsung di tempatnya, tanpa asumsi kamu sudah kenal dunia kripto.
 
+## Mulai dalam 5 menit
+
+Kalau kamu tidak mau baca semuanya dulu, ini versi singkatnya — tiga langkah sampai sukses pertama:
+
+1. **Daftar (1 menit).** Klik https://make.fun/r/m5sysagx, pilih cara masuk (Google, GitHub, dompet Solana, Apple, atau Discord). Tidak ada formulir panjang, tidak ada kartu kredit.
+2. **Hubungkan GitHub (1 menit).** Di profilmu, tautkan akun GitHub — ini syarat wajib sebelum mengirim entry.
+3. **Pilih bounty pertamamu.** Lihat daftar bounty, pilih satu yang hadiah dan tenggatnya cocok, lalu baca aturan di kit-nya.
+
+Setelah tiga langkah ini, kamu sudah bisa ikut bounty apa pun. Sisanya — cara membangun entry, mengirim, dan klaim hadiah — dijelaskan langkah demi langkah di bawah.
+
 ## Daftar isi
 
+- [Mulai dalam 5 menit](#mulai-dalam-5-menit)
 - [Apa itu make.fun?](#apa-itu-makefun)
 - [Apa yang kamu butuhkan](#apa-yang-kamu-butuhkan)
 - [1. Buat akun](#1-buat-akun)
@@ -57,9 +70,11 @@ Tidak ada biaya pendaftaran, tidak ada biaya untuk mengirim entry. Satu-satunya 
 
 ## 1. Buat akun
 
-1. Buka **https://make.fun/r/m5sysagx** di browser.
-2. Pilih cara masuk: dengan dompet Solana, Google, Apple, Discord, atau GitHub.
-3. Selesaikan pembuatan akun dan isi profilmu.
+1. Klik **https://make.fun/r/m5sysagx** — ini satu-satunya aksi yang perlu kamu lakukan sekarang.
+2. Pilih cara masuk: dengan dompet Solana, Google, Apple, Discord, atau GitHub. Tidak ada formulir panjang: cukup pilih salah satu, dan akunmu langsung jadi.
+3. Selesai. Kamu langsung masuk ke halaman bounty make.fun dan bisa melihat semua bounty yang sedang dibuka.
+
+Yang terjadi setelah daftar: kamu bisa langsung menjelajahi bounty, dan kapan pun siap, hubungkan dompet Solana dan GitHub-mu (langkah 2 di bawah) sebelum mengirim entry. Yang TIDAK diminta saat daftar: kartu kredit, nomor telepon, atau pembayaran apa pun.
 
 Kenapa lewat link referal? Saat kamu membuka link itu, browser kamu menyimpan kode `m5sysagx` selama 60 hari. Kalau kamu membuat akun dalam masa itu, akunmu terikat ke kode tersebut — dan pemilik kode mendapat kredit atas pendaftaranmu. Inilah cara bounty "Bring the humans again" menghitung skor: pendaftar baru yang terverifikasi dan terikat ke kode referal peserta.
 
@@ -157,7 +172,15 @@ Setelah punya akun make.fun, kamu juga punya kode referal sendiri. Caranya:
 2. Salin kode referalmu. Link-mu adalah `https://make.fun/r/<kode>` — misalnya link saya `https://make.fun/r/m5sysagx` dengan kode `m5sysagx`.
 3. Bagikan link itu ke mana pun: media sosial, grup chat, video, atau panduan seperti ini.
 
-Aturannya sama seperti di atas: kode yang pertama kali dilihat browser pengunjung adalah yang menang, dan berlaku 60 hari. Pendaftar baru yang terverifikasi dan terikat ke kodemu akan menambah skormu di bounty referal — dan di program referal biasa, kamu mendapat bagian dari hadiah yang mereka menangkan selama 90 hari. Jadi semakin banyak orang sungguhan yang kamu ajak, semakin besar peluangmu.
+Kenapa daftar lewat link referal menguntungkanmu? Buatmu, tidak ada bedanya dengan daftar biasa: gratis, akun yang sama, tanpa biaya tambahan. Bedanya, satu klikmu membantu panduan gratis ini tetap berjalan — dan begitu akunmu jadi, kamu langsung mendapat link referalmu sendiri untuk dibagikan ke orang lain. Setiap orang sungguhan yang daftar lewat linkmu menambah peluangmu di bounty referal, dan di program referal biasa kamu mendapat bagian dari hadiah yang mereka menangkan selama 90 hari.
+
+Aturannya sama seperti di atas: kode yang pertama kali dilihat browser pengunjung adalah yang menang, dan berlaku 60 hari. Link referal saya, siap disalin:
+
+```
+https://make.fun/r/m5sysagx
+```
+
+Bagikan ke mana pun — grup chat, media sosial, atau video. Semakin banyak orang sungguhan yang kamu ajak, semakin besar peluangmu.
 
 ## Kesalahan yang sering terjadi
 
